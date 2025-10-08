@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 '''
-作者：AI Assistant
 时间：2024-03-21
 说明：起飞到1.2m后，往前飞2m的过程中检测二维码，检测到就停止并降落
 '''
