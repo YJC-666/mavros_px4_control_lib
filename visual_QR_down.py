@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 '''
-作者：AI Assistant
 时间：2024-03-21
 说明：专注于二维码识别并发布到/ai_detect_info和/qr_code_info话题
 '''
