@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 '''
-作者：AI Assistant
 时间：2024-03-21
 说明：起飞到1.2m后，往前飞3m后（无中断打断）才去追踪执行
 '''
